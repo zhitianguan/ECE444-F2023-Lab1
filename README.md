@@ -10,7 +10,7 @@ Activity 2: <br />
 ![image](https://github.com/zhitianguan/ECE444-F2023-Lab1/assets/62303020/de60421d-8f16-4715-9e64-71e59c7a03bc)
 
 Activity 3: <br />
-![image](https://github.com/zhitianguan/ECE444-F2023-Lab1/assets/62303020/eedf649a-9035-4168-b79e-fb57fd261951)
+<img width="644" alt="Screenshot 2023-09-24 at 9 35 04 PM" src="https://github.com/zhitianguan/ECE444-F2023-Lab1/assets/62303020/330f8292-b1de-431d-b134-32a869d4bd66">
 
 Activity 4: <br />
 <img width="1087" alt="Screenshot 2023-09-24 at 8 47 30 PM" src="https://github.com/zhitianguan/ECE444-F2023-Lab1/assets/62303020/3363f08d-8bbb-45f2-8f4a-599f20b34886">
