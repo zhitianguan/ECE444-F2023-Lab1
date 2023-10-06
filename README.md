@@ -10,5 +10,6 @@ Activity 3: <br />
 ![Activity 3 Screenshot](screenshots/Activity_3.png)
 
 Activity 4: <br />
-
+![Activity 4 Screenshot a](screenshots/Activity_4_a.png)
+![Activity 4 Screenshot b](screenshots/Activity_4_b.png)
 
