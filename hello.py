@@ -32,4 +32,8 @@ def index():
         session['name'] = form.name.data
         session['email'] = form.email.data
         return redirect(url_for('index'))
-    return render_template('index.html', form=form, name=session.get('name'), email=session.get('email'), uoft_check_failed='utoronto' not in session.get('email'))
+
+    uoft_check_failed = False
+    if session.get('email') is not None:
+        uoft_check_failed = 'utoronto' not in session.get('email')
+    return render_template('index.html', form=form, name=session.get('name'), email=session.get('email'), uoft_check_failed=uoft_check_failed)
